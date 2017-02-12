@@ -1,7 +1,7 @@
 
 
 {:.center}
-![image](avatar1.JPG)  
+![image](avatar1.JPG 100x20)  
 
 ### Current Status
 
