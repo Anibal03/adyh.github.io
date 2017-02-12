@@ -1,6 +1,5 @@
 
-<p style="text-align:center;"><img src="avatar1.JPG" width="200"></p>
- 
+[img](avatar1.JPG){:width="200px"}
 
 ### Current Status
 
