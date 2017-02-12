@@ -1,4 +1,4 @@
-![img](avatar1.JPG | width = 100)
+![img](avatar1.JPG | width=100)
 
 ### Current Status
 
