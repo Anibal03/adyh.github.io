@@ -1,5 +1,5 @@
 
-[img](avatar1.JPG){:height="36px" width="36px"}
+[img](avatar1.JPG){: .callout}
 
 ### Current Status
 
