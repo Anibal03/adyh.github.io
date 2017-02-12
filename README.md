@@ -1,4 +1,4 @@
-![img](anibal03.github.io/avatar1.JPG =x200)
+![img](anibal03.github.io/avatar1.JPG)
 
 ### Current Status
 
