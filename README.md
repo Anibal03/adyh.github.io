@@ -1,3 +1,14 @@
+ <Style>
+ .summary-thumbnail img{ 
+ position: absolute; 
+ top: 0 !important; 
+ left: 0 !important; 
+ width: 100% !important; 
+ height: 100% !important; 
+ border-radius: 100% !important
+ }
+ </style>
+
 <img src="avatar1.JPG" width="180">
 <br><br>
 
