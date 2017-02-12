@@ -1,4 +1,4 @@
-![img](anibal03.github.io/avatar1.JPG)
+![img](avatar1.JPG)
 
 ### Current Status
 
