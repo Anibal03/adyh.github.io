@@ -1,5 +1,5 @@
 
-<img src="avatar1.JPG" width="200">
+<img src="avatar1.JPG" width="200" text-align= center>
 
 ### Current Status
 
