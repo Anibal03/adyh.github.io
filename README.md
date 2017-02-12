@@ -1,4 +1,4 @@
-![img](avatar1.JPG){: .callout}
+![img](avatar1.JPG | width = 100)
 
 ### Current Status
 
