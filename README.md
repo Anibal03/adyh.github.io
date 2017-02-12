@@ -1,4 +1,5 @@
-![img](avatar1.JPG){width=80 height=200}
+<img src="avatar1.JPG" width="180">
+
 
 ### Current Status
 
