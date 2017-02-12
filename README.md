@@ -1,9 +1,5 @@
-{:.foo}
-![image](avatar1.JPG)  
-.foo {
-  text-align: center;
-  width: 100px;
-}
+
+<img src="avatar1,JPG" width="200">
 
 ### Current Status
 
