@@ -5,6 +5,8 @@
 
 Student at the [Inter University Center for Japanese Language Studies](https://web.stanford.edu/dept/IUC/cgi-bin/) in Yokohama (expected graduation June 2017) 
 
+<br><br>
+
 ### Professional Experience
 
 **UBS AG (Hong Kong), Equity Derivatives Trading (January 2015 – August 2016)**
