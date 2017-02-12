@@ -1,4 +1,4 @@
-![image](avatar.JPG)
+![image](avatar1.JPG)
 
 ### Current Status
 
