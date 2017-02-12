@@ -1,5 +1,9 @@
-
-![image](avatar1.JPG =100x20)  
+{:.foo}
+![image](avatar1.JPG)  
+.foo {
+  text-align: center;
+  width: 100px;
+}
 
 ### Current Status
 
