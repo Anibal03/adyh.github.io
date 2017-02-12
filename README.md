@@ -1,4 +1,4 @@
-![img | medium](avatar1.JPG)
+![img](avatar1.JPG){width=80 height=200}
 
 ### Current Status
 
