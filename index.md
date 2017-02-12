@@ -1,9 +1,10 @@
-## Aníbal David Yáñez Hinojosa
+# Aníbal David Yáñez Hinojosa
 
+### Current Status
 Student at the [Inter University Center for Japanese Language Studies](https://web.stanford.edu/dept/IUC/cgi-bin/) in Yokohama.
 
-[CV](ResumeAnibal.pdf)
+Here for my [CV](ResumeAnibal.pdf)
 
-### Projects
+### R Projects
 
 
