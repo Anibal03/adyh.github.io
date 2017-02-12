@@ -1,4 +1,7 @@
-![image](avatar1.JPG)
+
+
+{:.center}
+![image](avatar1.JPG)  
 
 ### Current Status
 
