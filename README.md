@@ -1,5 +1,3 @@
-# Aníbal David Yáñez Hinojosa
-
 ### Current Status
 
 Student at the [Inter University Center for Japanese Language Studies](https://web.stanford.edu/dept/IUC/cgi-bin/) in Yokohama (expected graduation June 2017) 
@@ -21,4 +19,6 @@ Student at the [Inter University Center for Japanese Language Studies](https://w
 Here for my full [CV](ResumeAnibal.pdf)
 
 ### R Projects
+
+(Coming soon)
 
