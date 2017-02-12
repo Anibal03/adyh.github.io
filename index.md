@@ -6,10 +6,10 @@ Student at the [Inter University Center for Japanese Language Studies](https://w
 
 ### Professional Experience
 
-UBS AG (Hong Kong), Equity Derivatives Trading (January 2015 – August 2016)
-•	Made markets in vanilla single-stock options for institutional clients
-•	Managed a single-stock structured-product portfolio mainly consisting of auto-callables (Digital Coupon Notes, Accumulators, Decumulators)
-•	Coded a statistical arbitrage strategy to optimize the carry of the portfolio 
+UBS AG (Hong Kong), Equity Derivatives Trading (January 2015 – August 2016)\
+•	Made markets in vanilla single-stock options for institutional clients\
+•	Managed a single-stock structured-product portfolio mainly consisting of auto-callables (Digital Coupon Notes, Accumulators, Decumulators)\
+•	Coded a statistical arbitrage strategy to optimize the carry of the portfolio \\
 
 UBS Securities Japan, Equity Cash Trading (July 2012 – December 2014)
 •	Priced single-stock blocks and portfolios for various benchmarks (last price, guaranteed VWAP, guaranteed close, etc.)
