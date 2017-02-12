@@ -1,5 +1,4 @@
-
-[img](avatar1.JPG){: .callout}
+[img](avatar1.JPG)
 
 ### Current Status
 
