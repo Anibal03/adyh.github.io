@@ -1,10 +1,7 @@
-#Ani
-
 ## Aníbal David Yáñez Hinojosa
 
-You can use the [editor on GitHub](https://github.com/Anibal03/adyh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Student at the [Inter University Center for Japanese Language Studies](https://web.stanford.edu/dept/IUC/cgi-bin/)in Yokohama.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
