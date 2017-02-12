@@ -1,5 +1,5 @@
 
-<img src="avatar1.JPG" width="150">
+<img src="avatar1.JPG" width="200" align="middle">
 
 ### Current Status
 
