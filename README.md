@@ -1,5 +1,5 @@
 
-[img](avatar1.JPG){:width="200px"}
+[img](avatar1.JPG){:height="36px" width="36px"}
 
 ### Current Status
 
