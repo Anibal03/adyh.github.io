@@ -1,11 +1,11 @@
 <img src="avatar1.JPG" width="180">
 <br><br>
 
-### Current Status
+## Current Status
 
 Student at the [Inter University Center for Japanese Language Studies](https://web.stanford.edu/dept/IUC/cgi-bin/) in Yokohama (expected graduation June 2017) 
 
-### Professional Experience
+## Professional Experience
 
 **UBS AG (Hong Kong), Equity Derivatives Trading (January 2015 – August 2016)**
 
@@ -21,8 +21,8 @@ Student at the [Inter University Center for Japanese Language Studies](https://w
 
 Here for my full [CV](ResumeAnibal.pdf)
 
-### R Projects
+## R Projects
 
-# [Hedge Optimizer](https://anibal03.shinyapps.io/hedgeoptim/)
+### [Hedge Optimizer](https://anibal03.shinyapps.io/hedgeoptim/)
 Uses the universe of the Topix Core 30 to select an optimal hedge for a given stock. The analysis can be done in both, log returns and prices. 
 
