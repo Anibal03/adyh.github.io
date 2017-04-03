@@ -1,5 +1,4 @@
 <center><img src="avatar1.JPG" width="180"></center>
-<br><br>
 
 ### Current Status
 
